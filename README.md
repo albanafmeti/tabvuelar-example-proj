@@ -1,4 +1,4 @@
-# Tabvuelar example project
+# Example project
 It's an example project using tabvuelar package. Laravel 5.5 + Vue.js 2
 
 Inside resources/assets/js you will find the javascript.
