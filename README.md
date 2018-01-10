@@ -1,7 +1,7 @@
 # Example project
-It's an example project using tabvuelar package. Laravel 5.5 + Vue.js 2
+It's an example project using tabvuelar package. Laravel 5.5 and Vue.js 2
 
-Inside resources/assets/js you will find the javascript.
+Inside resources/assets/js you will find the javascript (Vue staff).
 
 Run `npm install` to install the dependencies.
 
